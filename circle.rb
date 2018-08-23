@@ -9,4 +9,9 @@ class Circle
       "hello! I'm #{@color}"
     end
 
+
+    def say_goodbye
+      "bye"
+    end
+
 end
